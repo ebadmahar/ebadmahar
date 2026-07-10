@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ebad ur Rehman aka Ebad Mahar from Islamabad Pakistan.<br><br>- 📚 I'm currently learning Software Engineering<br>- ⚡ In my free time I Do Photography and Video Editing.</p>
+<p align="left">Ebad Here.<br><br>- Just a Tech</p>
 
 ###
 
