@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left"> Ebad Here.<br><br>~ Just a Tech</p>
+<p align="left">~ Ebad Here.<br><br>~ Just a Tech</p>
 
 ###
 
